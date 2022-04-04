@@ -1,1 +1,2 @@
 # Frequency-Division-Multiplexing
+This is a project for signals and systems. It takes 3,4 audio inputs from the user and passes it through a low pass filter with 3kHz bandwidth. It then modulates each signal seperately with cosines signals with different frequencies and add them up. Finally the added signal is passed through a bandpass signal and then retrieves the original signal at the end by passing it through low pass filter. The second part of the project involves audio compression.
